@@ -1,138 +1,293 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="LIVE EVENT",Donasi +++
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
-# ===== SOURCE 1 =====
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",21:10 WIB MotoGP: Qatar Airways Grand Prix of Qatar - Practice TNT SPORTS 2
+# ===== SOURCE 2 =====
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2676/image" group-title="LIVE EVENT",02:30 WIB Hamburger SV vs Borussia Mgladbach Football SKY TOP EVENT - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",21:10 WIB MotoGP: Qatar Airways Grand Prix of Qatar - Practice Fancode
+#KODIPROP:inputstream.adaptive.license_key=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2676/image" group-title="LIVE EVENT",02:30 WIB Hamburger SV vs Borussia Mgladbach Football HD SERVER
+https://www.rtmpcdn.com/live/f02e1559-96a7-48c6-abe7-cc2a6abca702.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/5067/image" group-title="LIVE EVENT",02:30 WIB CD Castellon vs Eibar Football LaLiga Hypermotion
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg",02:30 WIB Hamburger SV vs Borussia M'gladbach
+#EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/25939/image" group-title="LIVE EVENT",02:45 WIB Oxford City vs Leicester City Football TNT SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2688/image" group-title="LIVE EVENT",02:45 WIB Venezia vs Udinese Football beIN ENGLISH - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1681/image" group-title="LIVE EVENT",02:45 WIB Toulouse vs RC Strasbourg Football beIN ENGLISH - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/1681/image" group-title="LIVE EVENT",02:45 WIB Toulouse vs RC Strasbourg Football CazÃ©TV - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s",02:45 WIB Venezia vs Udinese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/48/image" group-title="LIVE EVENT",03:00 WIB Everton vs Coventry City Football SKY SPORT PL - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2833/image" group-title="LIVE EVENT",03:00 WIB Sevilla vs Deportivo Alaves Football PREMIER SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2833/image" group-title="LIVE EVENT",03:00 WIB Sevilla vs Deportivo Alaves Football FANCODE - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",21:10 WIB MotoGP: Qatar Airways Grand Prix of Qatar - Practice Nonton GP
-#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-http://master3.s3stream.top/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEplpQQVqoiEPs2_7l6jRQ1TwJBCm6ucbQ0y5A074Ww&s=10" group-title="LIVE EVENT",21:10 WIB MotoGP: Qatar Airways Grand Prix of Qatar - Practice MOTOGP TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2833/image" group-title="LIVE EVENT",03:00 WIB Sevilla vs Deportivo Alaves Football CazÃ©TV - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-# ===== SOURCE 2 =====
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/_bDcr",19:00 WIB Madura United vs Arema
-#EXTVLCOPT:http-origin=https://player.787200.com/
-#EXTVLCOPT:http-referrer=https://player.787200.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.vivo155.com/live/sd-1-4614409.m3u8?txSecret=1a761386eae1a38c043df699585405ab&txTime=6AEDD364
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/_bDcr",19:00 WIB Madura United vs Arema
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/27/image" group-title="LIVE EVENT",03:00 WIB Derby County vs Bolton Wanderers Football beIN ENGLISH - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg",03:00 WIB Everton vs Coventry City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT",MPL INDONESIA SEASON 18 PLAYOFFS Streaming mobile legends: bang bang.
-http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://iili.io/FtSMHX9.jpg",03:00 WIB Sevilla vs Deportivo AlavÃ©s
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",é¦ä¸«æ¨ªæ«é©¬æ¥æçº§ï¼ç¨é©°éæ¾æ·æ±°  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=3f3b6ef68968869d93cc69c58e99b4c9&wsTime=6aef3c40&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=b909228d5a0f691ef9f0caba7965d315&wsTime=6aef958d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",çè°¢æè´¥å¾éæ­¢æ­¥å
 «å¼º   2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=e6f512a43a39d11f22b83e53ce1654e9&wsTime=6aef3c42&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlkHQt6IzpJKNKJdy3AI1eqZxDe5bhhWOCCg4h5yDQkw&s=10" group-title="LIVE EVENT",One Friday Fights
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=39d36459b45aaa6c4b13bd3d8bfa5572&wsTime=6aef958f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="LIVE EVENT",22:30 WIB Formula 1 Motorsports FANCODE - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="LIVE EVENT",22:30 WIB Formula 1 Motorsports SKY SPORT F1 - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="LIVE EVENT",22:30 WIB Formula 1 Motorsports SKY TOP EVENT - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="LIVE EVENT",22:30 WIB Formula 1 Motorsports SporTV BR - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="LIVE EVENT",22:30 WIB Formula 1 Motorsports FANCODE - LQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10" group-title="LIVE EVENT",22:30 WIB Formula 1 Motorsports SKY F1 - ITALY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:08:32 PM 06-11-2026
+#LAST_UPDATE:03:02 AM 07-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:7
+#LIVE_COUNT:12
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HQ3XL4L7" tvg-name="ONE Friday Fights 177" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.75d293ec-7f4b-4e88-8a2e-672d0ae59b46/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",ONE Friday Fights 177  Prime Sports
+#EXTINF:-1 tvg-id="B0HPQ3BY5X" tvg-name="Tabor at Oklahoma Panhandle State" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.4cc185f6-8150-42b2-936b-b9e965a5d701/4/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Tabor at Oklahoma Panhandle State  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
-#EXTINF:-1 tvg-id="B0HM7N447W" tvg-name="Bassmaster Redfish Cup at Port Aransas" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e7dfd46d-5b94-4fa8-91f0-0bf32de6a7da/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Bassmaster Redfish Cup at Port Aransas  Prime Sports
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
+#EXTINF:-1 tvg-id="B0HHKCMVL6" tvg-name="Ireland v Argentina" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d86f5606-29ab-4c8e-95ad-305568743554/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Ireland v Argentina  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
 #EXTINF:-1 tvg-id="B0HNVGKRFW" tvg-name="Triton Poker ONE Series Cyprus-$3K QQPK Genesis" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e9172cba-7c58-42bc-99b2-ffa2cc53f765/5/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Triton Poker ONE Series Cyprus-$3K QQPK Genesis  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-#EXTINF:-1 tvg-id="B0HPKBFVX1" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.497599aa-f5ae-48c7-87bd-334359a6b568/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",The Morning Drive  Prime Sports
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+#EXTINF:-1 tvg-id="B0HPZTVMX5" tvg-name="PPA Tour: World Championships-2026: Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.854ed171-ca0f-447e-a458-02a811babb49/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",PPA Tour: World Championships-2026: Quarterfinals  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
-#EXTINF:-1 tvg-id="B0HP7NVMGG" tvg-name="Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.55988f1c-93ae-46f8-87a0-ec4d4ed5313d/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Quarterfinals  Prime Sports
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+#EXTINF:-1 tvg-id="B0HPMNPBDY" tvg-name="Paris Saint-Germain vs. Le Havre AC" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.239b40f3-946f-4d48-8fd9-53d9c1b19a96/9/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Paris Saint-Germain vs. Le Havre AC  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+#EXTINF:-1 tvg-id="B0HPBXVSQP" tvg-name="Derby County vs. Bolton Wanderers" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.2117677a-4e4d-4455-871a-138d98f0e1b4/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Derby County vs. Bolton Wanderers  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-id="B0HPK37GXZ" tvg-name="Washington Eagles vs. N.Y. X-Factor" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.9ce5028f-682b-4abd-9950-c263465f1e16/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Washington Eagles vs. N.Y. X-Factor  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-id="B0HPBC6PC2" tvg-name="Qatar Airways Grand Prix of Qatar, Practice" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.8306268e-5a1b-4752-b5a3-c9e1324b2a52/5/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Qatar Airways Grand Prix of Qatar. Practice  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://live-emt-pv-ta-enf.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWIimAWpwcmltZXZpZGVvBBprAat9Bhpq7eT9A2ZmYXN0bHkCeChmaWQ6MDFhMWIxNDYtN2U2Ny03MjUyLThiYWMtOTY3ZWU3M2U2Y2I1GQE4oQWhAngzLzFoYzVmd2I3bTAvb3V0L3YxLzgxOTdjOGUwNTVjOTRhODY4NjIzNjUzYWM1NWMxMGJmWCC-VzOdoth90YkgIYFjMqiQLp4_a9XiXNH5kiVRNlzMnA/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/1hc5fwb7m0/out/v1/8197c8e055c94a868623653ac55c10bf/e9123379-6f1a-4449-9df4-67639f535460-cenc.mpd?aws.sessionId=362f921c-fee0-4960-9353-976871f2ec9d
-#EXTINF:-1 tvg-id="B0HN5RT7R7" tvg-name="Afghanistan vs. Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c99d81c2-f274-43b8-a25b-fdc9429e7b34/4/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Afghanistan vs. Zimbabwe  Prime Sports
+#EXTINF:-1 tvg-id="B0HP9V1R4V" tvg-name="USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.0baf8e5c-6894-4383-9d74-c60c2ef7a535/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a6ef0d83683308a1e0273dcd091a36e9:b6110ea48b98af73e187c186a3123394
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tlrwnbn6fm/out/v1/c4da76dbf9de4a589bd149133217523b/cenc.mpd
 # ===== SOURCE 4 =====
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg" group-title="LIVE EVENT", FC Goa vs Bengaluru FC MG Indian Super League 2026-27 Sony Liv
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=27196b8e6d5541167097bcb7abf68d96-1793970604763
 # ===== SOURCE 5 =====
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",18:00 WIB Motogp Motorsport TNT SPORTS - AQ
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10",22:30 WIB Formula 1 Motorsports FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",18:00 WIB Motogp Motorsport FANCODE - AQ
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10",22:30 WIB Formula 1 Motorsports SKY SPORT F1 - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",18:00 WIB Motogp Motorsport SKY SPORT MIX - AQ
+#KODIPROP:inputstream.adaptive.license_key=0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10",22:30 WIB Formula 1 Motorsports SKY TOP EVENT - AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",18:00 WIB Motogp Motorsport SKY TOP EVENT - AQ
+#KODIPROP:inputstream.adaptive.license_key=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10",22:30 WIB Formula 1 Motorsports SporTV BR - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10",22:30 WIB Formula 1 Motorsports FANCODE - LQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&amp;s=10",22:30 WIB Formula 1 Motorsports SKY F1 - ITALY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2676/image",02:30 WIB Hamburger SV vs Borussia Mgladbach Football SKY TOP EVENT - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",18:00 WIB Motogp Motorsport MotoGP - AQ
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2676/image",02:30 WIB Hamburger SV vs Borussia Mgladbach Football HD SERVER
+https://www.rtmpcdn.com/live/f02e1559-96a7-48c6-abe7-cc2a6abca702.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/25939/image",02:45 WIB Oxford City vs Leicester City Football TNT SPORTS - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",18:00 WIB Motogp Motorsport FANCODE - LQ
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/48/image",03:00 WIB Everton vs Coventry City Football SKY SPORT PL - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&amp;s",18:15 WIB NPL Nepal Premier League Cricket NPL LIVE - AQ
+#KODIPROP:inputstream.adaptive.license_key=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2688/image",02:45 WIB Venezia vs Udinese Football beIN ENGLISH - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2833/image",03:00 WIB Sevilla vs Deportivo Alaves Football PREMIER SPORTS - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2833/image",03:00 WIB Sevilla vs Deportivo Alaves Football FANCODE - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://ott-lb.nettv.com.np/npl/live_match/index.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&amp;s",18:15 WIB NPL Nepal Premier League Cricket STAR SPORTS HD
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/2833/image",03:00 WIB Sevilla vs Deportivo Alaves Football CazÃ©TV - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1681/image",02:45 WIB Toulouse vs RC Strasbourg Football beIN ENGLISH - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/1681/image",02:45 WIB Toulouse vs RC Strasbourg Football CazÃ©TV - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/27/image",03:00 WIB Derby County vs Bolton Wanderers Football beIN ENGLISH - AQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/5067/image",02:30 WIB CD Castellon vs Eibar Football LaLiga Hypermotion
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
+https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
 #LAST_UPDATE:03:32 PM 16-10-2026
@@ -150,9 +305,6 @@ https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2251067/slepsk
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Iq7dx7zh-480.jpg" group-title="LIVE EVENT",[Belum Mulai] 01:30 WIB Stilon Gorzow VS Jastrzebie Barkom - NEVZA POOL PHASE
 https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2252004/cuprum-vs-barkom.html?icg=UEU
 # ===== SOURCE 11 =====
-# ===== SOURCE 13 =====
-#EXTINF:-1 tvg-logo="https://cdn.esports.id/media/article/488220220630094344.jpg" group-title="LIVE EVENT", MPL INDONESIA SEASON 18 PLAYOFFS Streaming mobile legends: bang bang.
-http://gvisiontv2.channell.my.id/ch/tch/tch.php/.m3u8?id=navimlbbofficial
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html><head>
 <title>404 Not Found</title>
