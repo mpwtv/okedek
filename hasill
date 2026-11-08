@@ -2,107 +2,159 @@
 #EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="LIVE EVENT",Donasi +++
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 # ===== SOURCE 2 =====
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/472216/image" group-title="LIVE EVENT",05:00 WIB UFC LIVE Boxing TNT SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/472216/image" group-title="LIVE EVENT",05:00 WIB UFC LIVE Boxing UFC LIVE - AQ
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/472216/image" group-title="LIVE EVENT",05:00 WIB UFC LIVE Boxing SportsNet - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",èçºï¼éç½æ­¢æ­¥åå³èµ  2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=d3285b43787c9a871e36d70197906692&wsTime=6af11cb8&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",é¦ä¸«æ¨ªæ«ååæçº§å³èµ   2026é©å½Open Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=b875f6e794d0e7125e00e465faed6154&wsTime=6af11cbc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="LIVE EVENT",UFC Fight Night - Cortes Acosta vs Walker Sony Liv
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9b5b090d87c6ab5b136e95356729fdd0-1794097804611
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/yDHTs",14:00 WIB Korea Expressway (W) vs Heungkuk Pink Spiders (W)
+https://nvelop-livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0006/2fklmjr2q47ewjcs1nf9giipi6kmaqlwwkdp/cdxnztoqx64clawoyvoka956kmaqlwwhel_hls_playlist.m3u8?hdnts=st=1794120943~exp=1794182153~acl=*/2fklmjr2q47ewjcs1nf9giipi6kmaqlwwkdp/*~hmac=9bb2e1a6d3023e94c47c564ba9d63d92dcfb842b393313a07c9382c02e23ce20
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/_bDcr",15:30 WIB PSS Sleman vs Bhayangkara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/_bDcr",15:30 WIB Bali United vs Persik Kediri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel22.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",éå
+æµ©u002Få¾æ¿å®°2-1ä¿æ¨åæu002Få°æä¼å¾ï¼å¤ºå¾å å  2026é©å½Open Badminton HUYA CN
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1.flv?wsSecret=b3b0ea9262da8562e19a550033349ca6&wsTime=6af18630&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",èé­2-0é«å´ä¸è·¯è¿å
+³æ©å°ï¼æåå¤ºå    2026é©å½Open Badminton HUYA CN
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=ab8668fd8d15fdcb83598ff7db43334b&wsTime=6af18635&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 # ===== SOURCE 3 =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:07:02 AM 08-11-2026
+#LAST_UPDATE:02:32 PM 08-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:10
+#LIVE_COUNT:6
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HQ73HBKQ" tvg-name="Flex Fights 64: Most Wanted" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1e653888-7099-4e83-90f8-a5af0405acc3/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Flex Fights 64: Most Wanted  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/youk5yyomc/out/v1/3b2973990a634a328b2426c187cd49be/cenc.mpd
-#EXTINF:-1 tvg-id="B0HPL5TCY4" tvg-name="AHL Hockey: Hershey Bears vs Springfield Thunderbirds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5e9f2bed-922b-44a5-956f-dc1abc50fa0c/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",AHL Hockey: Hershey Bears vs Springfield Thunderbirds  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-#EXTINF:-1 tvg-id="B0HLD1BH7W" tvg-name="Deportivo Toluca FC vs. CF Monterrey" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b3c0c637-f934-4d19-887c-aa483e6cf502/3/BOXART-16X9/en-US/1920x1080._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="LIVE EVENT",Deportivo Toluca FC vs. CF Monterrey  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="B0HQ4KYCHH" tvg-name="NASCAR Local Racing Series-LIVE: Fall Brawl at Hickory Motor Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.2668f3cf-4b0d-40a0-a131-4b13c59679a7/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",NASCAR Local Racing Series-LIVE: Fall Brawl at Hickory Motor Speedway  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
-#EXTINF:-1 tvg-id="B0HP22PH53" tvg-name="PPA Tour: World Championships-2026: Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.17f2204e-cfa4-43b3-aa78-c24b2cc2ddbd/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",PPA Tour: World Championships-2026: Semifinals  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-#EXTINF:-1 tvg-id="B0HPH4JCVW" tvg-name="US Open Netball Champs" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a988e642-1d8d-43cd-aee2-4f58f7056081/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",US Open Netball Champs  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-#EXTINF:-1 tvg-id="B0HQ1BV27B" tvg-name="Regis University at Colorado School of Mines" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.0d669a84-a556-4985-ac8e-882e7b7c0e1a/1/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Regis University at Colorado School of Mines  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
-#EXTINF:-1 tvg-id="B0HN95FFRR" tvg-name="USA Seniors Cricket NPL 2026 - 12th Match - Chicago Cavaliers vs Seattle Moose" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d3a32644-1806-4929-99fb-e6e05d0105ba/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",USA Seniors Cricket NPL 2026 - 12th Match - Chicago Cavaliers vs Seattle Moose  Prime Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6d04005acba2bec7402b5fc55afae78:3875902a3a3571958792c959adf4752f
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3rj2taoisb/out/v1/a60c22c8b1b247418d56e9ae5f46601f/cenc.mpd
-#EXTINF:-1 tvg-id="B0HNNHYRP8" tvg-name="Chicago Cavaliers vs. Seattle Moose" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.4a6091fb-ffe3-440c-a42e-6877dc7a5119/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Chicago Cavaliers vs. Seattle Moose  Prime Sports
+#EXTINF:-1 tvg-id="B0HQ5CZSHJ" tvg-name="Perth Scorchers vs. Melbourne Stars" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.b3d1b98a-a6f0-4fc9-b339-b8a3b6df88d9/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Perth Scorchers vs. Melbourne Stars  Prime Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="B0HQ7MQV7F" tvg-name="ACC Mens U19 Asia Cup 2026 - 8th Match - India U19 vs Pakistan U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3fbc3e12-23d1-4e81-9b7b-079b54ab7724/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",ACC Mens U19 Asia Cup 2026 - 8th Match - India U19 vs Pakistan U19  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb402b40b2aa0cceeb399dc8a3cfb6f1:8f089d69677070e893da78d9ba7c35b6
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/swccd6o1bx/out/v1/782ed415026645beb52cae42251d0a0d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/11/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f6cef23a9b2d9b21e04cd96753f7d01:3f260e0025a8b3273ece982cff0562e0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd
+#EXTINF:-1 tvg-id="B0HQDBNQKV" tvg-name="ACC Mens U19 Asia Cup 2026 - 7th Match - United Arab Emirates U19 vs Nepal U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c6dd08ff-fcb4-4bdd-9bd5-a384cd1c7a38/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",ACC Mens U19 Asia Cup 2026 - 7th Match - United Arab Emirates U19 vs Nepal U19  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f638f10e9bee65a698926a527722e332:a9f519367caf419607f6705e3d767935
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd
+#EXTINF:-1 tvg-id="B0HNFM7DSX" tvg-name="Womens Big Bash League 2026 - 16th Match - Perth Scorchers Women vs Melbourne Stars Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1ac7aec6-94cb-40b9-b9f7-8fcdb58d704a/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Womens Big Bash League 2026 - 16th Match - Perth Scorchers Women vs Melbourne Stars Women  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41b0e855ff51711a08ab8e4ccf1d0ba1:e849d0113e5fe023ff48664f3dc76b02
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lhdal9buc7/out/v1/8bc185a9052e4f0b911f5a26bf2e907d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFX9Z692" tvg-name="Womens Big Bash League 2026 - 15th Match - Sydney Sixers Women vs Sydney Thunder Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d415ed82-2301-4764-93cd-269d5685d551/2/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0-0-1920-1080+0-0-1920-1080+1724-885-117-117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Womens Big Bash League 2026 - 15th Match - Sydney Sixers Women vs Sydney Thunder Women  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd35b1d5d52fa3407fe1e6730691c148:21222db5e5b30d5d7c84b06df43703b9
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o3azghs1ah/out/v1/f62c188265b84823b697ceacbf2386ad/cenc.mpd
 # ===== SOURCE 4 =====
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="LIVE EVENT", 3rd Unofficial Test - Day 2 India A Tour of New Zealand Sony Liv
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9b5b090d87c6ab5b136e95356729fdd0-1794097804611
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="LIVE EVENT", UFC Fight Night - Cortes Acosta vs Walker Sony Liv
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9b5b090d87c6ab5b136e95356729fdd0-1794097804611
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="LIVE EVENT", India vs Pakistan ACC Men's U19 Asia Cup 2026 Sony Liv
+https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchb9e7/cricodi_0811-eng-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=31a67588c59a9022ea6f091dbd9431f6-1794118202376
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028499/1793997230899948_ACC_MensU19_UAE_vs_Nepal_live_landscape_thumb.jpg" group-title="LIVE EVENT", UAE vs Nepal ACC Men's U19 Asia Cup 2026 Sony Liv
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=31a67588c59a9022ea6f091dbd9431f6-1794118202376
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888647343682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day4_landscape_thumb.jpg" group-title="LIVE EVENT", Abu Dhabi HSBC Championship - Day 4 DP World Tour Sony Liv
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=31a67588c59a9022ea6f091dbd9431f6-1794118202376
 # ===== SOURCE 5 =====
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/472216/image",05:00 WIB UFC LIVE Boxing TNT SPORTS - AQ
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187575/image",13:00 WIB Afghanistan vs Zimbabwe Cricket WILLOW - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f6cef23a9b2d9b21e04cd96753f7d01:3f260e0025a8b3273ece982cff0562e0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187575/image",13:00 WIB Afghanistan vs Zimbabwe Cricket WILLOW - ALT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f6cef23a9b2d9b21e04cd96753f7d01:3f260e0025a8b3273ece982cff0562e0
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187575/image",13:00 WIB Afghanistan vs Zimbabwe Cricket A SPORTS HD
+https://live.msnetworks.net/a-sports/master.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187744/image",10:30 WIB Bangladesh vs West Indies Cricket FANCODE - AQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/472216/image",05:00 WIB UFC LIVE Boxing UFC LIVE - AQ
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/472216/image",05:00 WIB UFC LIVE Boxing SportsNet - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187744/image",10:30 WIB Bangladesh vs West Indies Cricket FANCODE - LQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/187744/image",10:30 WIB Bangladesh vs West Indies Cricket T SPORTS - LQ
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/274890/image",13:10 WIB Perth Scorchers Women vs Melbourne Stars Women Cricket WILLOW - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41b0e855ff51711a08ab8e4ccf1d0ba1:e849d0113e5fe023ff48664f3dc76b02
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhdal9buc7/out/v1/8bc185a9052e4f0b911f5a26bf2e907d/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/274890/image",13:10 WIB Perth Scorchers Women vs Melbourne Stars Women Cricket SKY CRICKET - AQ
+#EXTVLCOPT:http-user-agent=Mozilla
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/274890/image",13:10 WIB Perth Scorchers Women vs Melbourne Stars Women Cricket WILLOW - ALT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41b0e855ff51711a08ab8e4ccf1d0ba1:e849d0113e5fe023ff48664f3dc76b02
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lhdal9buc7/out/v1/8bc185a9052e4f0b911f5a26bf2e907d/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/300266/image",12:00 WIB United Arab Emirates Under-19 vs Nepal Under-19 Cricket WILLOW - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f638f10e9bee65a698926a527722e332:a9f519367caf419607f6705e3d767935
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/300266/image",12:00 WIB United Arab Emirates Under-19 vs Nepal Under-19 Cricket SonyLiv PRIME - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08bb45494843dfb2a89da2899fe3999f:4571346ca311bca08a61fe9e76779029
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pklmckneea/out/v1/0f99435eda984497aa21d65b9f5410e1/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/300266/image",12:00 WIB United Arab Emirates Under-19 vs Nepal Under-19 Cricket WILLOW - ALT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f638f10e9bee65a698926a527722e332:a9f519367caf419607f6705e3d767935
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/300266/image",12:00 WIB United Arab Emirates Under-19 vs Nepal Under-19 Cricket SonyLiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=85ef8820deb1a8ca78a9ba5573f23156-1794113401685
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213112/image",12:00 WIB India Under-19 vs Pakistan Under-19 Cricket WILLOW - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb402b40b2aa0cceeb399dc8a3cfb6f1:8f089d69677070e893da78d9ba7c35b6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zjxcvjdkli/out/v1/adfe504a6e6a4cfda0234885b08f72a6/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213112/image",12:00 WIB India Under-19 vs Pakistan Under-19 Cricket SonyLiv PRIME - AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a41a1afa54961a0cfafd5e7b2b550ce:f6d9a39542f275e5e2e73f20c6c97de9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aungdo94je/out/v1/7962d6bd2f904cf09661de99039e97a9/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213112/image",12:00 WIB India Under-19 vs Pakistan Under-19 Cricket WILLOW - ALT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb402b40b2aa0cceeb399dc8a3cfb6f1:8f089d69677070e893da78d9ba7c35b6
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zjxcvjdkli/out/v1/adfe504a6e6a4cfda0234885b08f72a6/cenc.mpd
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213112/image",12:00 WIB India Under-19 vs Pakistan Under-19 Cricket TEN SPORTS HD
+https://live.msnetworks.net/ten-sports/master.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213112/image",12:00 WIB India Under-19 vs Pakistan Under-19 Cricket PTV SPORTS HD
+https://live.msnetworks.net/ptv-sports/master.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213112/image",12:00 WIB India Under-19 vs Pakistan Under-19 Cricket SonyLiv - English
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0811/ENG/master.m3u8?hdnea=exp=1794151400~acl=/*~id=83485597329850560748911921963862~hmac=dedd1d27f507fe870504fa2a72119ae09adb01c2a48aad4dffd47968defeab18
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213112/image",12:00 WIB India Under-19 vs Pakistan Under-19 Cricket SonyLiv - Hindi
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0811/HIN/master.m3u8?hdnea=exp=1794151400~acl=/*~id=83485597329850560748911921963862~hmac=dedd1d27f507fe870504fa2a72119ae09adb01c2a48aad4dffd47968defeab18
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213112/image",12:00 WIB India Under-19 vs Pakistan Under-19 Cricket SonyLiv - Tamil
+https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_0811/TAM/master.m3u8?hdnea=exp=1794151400~acl=/*~id=83485597329850560748911921963862~hmac=dedd1d27f507fe870504fa2a72119ae09adb01c2a48aad4dffd47968defeab18
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213112/image",12:00 WIB India Under-19 vs Pakistan Under-19 Cricket SonyLiv - Telugu
+https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_0811/TEL/master.m3u8?hdnea=exp=1794151400~acl=/*~id=83485597329850560748911921963862~hmac=dedd1d27f507fe870504fa2a72119ae09adb01c2a48aad4dffd47968defeab18
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://img.sofascore.com/api/v1/team/213112/image",12:00 WIB India Under-19 vs Pakistan Under-19 Cricket SonyLiv - Kannada
+https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_0811/KAN/master.m3u8?hdnea=exp=1794151400~acl=/*~id=83485597329850560748911921963862~hmac=dedd1d27f507fe870504fa2a72119ae09adb01c2a48aad4dffd47968defeab18
 # ===== SOURCE 6 =====
 #PLAYLIST:Willow Cricket Event Info
 #LAST_UPDATE:03:32 PM 16-10-2026
@@ -119,6 +171,7 @@ https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2251030/denso-a
 https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2251067/slepsk-suwalki-vs-gks-katowice.html?icg=UEU
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Iq7dx7zh-480.jpg" group-title="LIVE EVENT",[Belum Mulai] 01:30 WIB Stilon Gorzow VS Jastrzebie Barkom - NEVZA POOL PHASE
 https://site04.superabbit77hd.skin/es/volleyball/poland-plus-liga-2252004/cuprum-vs-barkom.html?icg=UEU
+# ===== SOURCE 10 =====
 # ===== SOURCE 11 =====
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html><head>
