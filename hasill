@@ -2,72 +2,89 @@
 #EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="LIVE EVENT",Donasi +++
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 # ===== SOURCE 2 =====
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4832/image" group-title="LIVE EVENT",20:00 WIB Namibia vs Cameroon Football beIN ENGLISH - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4832/image" group-title="LIVE EVENT",20:00 WIB Namibia vs Cameroon Football beIN SPANISH - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4832/image" group-title="LIVE EVENT",20:00 WIB Namibia vs Cameroon Football HD SERVER
-https://pulltx.cqsycw.com/live/sd-6MxjZAMSg74BfakUkv.m3u8?txSecret=b2a4f7f1f89b139fc80b137e85f9b1ce&txTime=6AFB02C4&sid=0Jli-uEPe4n1ebmY4AcQiOi4X6ovPV-g11VLSs_q9Ca0fLEXiLhmb08tCZO8CP7F
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4832/image" group-title="LIVE EVENT",20:00 WIB Namibia vs Cameroon Football Live 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/3687a186-2d01-489c-8886-91214acf5d08.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4734/image" group-title="LIVE EVENT",20:00 WIB Sudan vs Senegal Football beIN ENGLISH - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4734/image" group-title="LIVE EVENT",20:00 WIB Sudan vs Senegal Football beIN SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4734/image" group-title="LIVE EVENT",20:00 WIB Sudan vs Senegal Football HD SERVER
-https://pulltx.cqsycw.com/live/sd-6MxjZAMSgJ3b1yt4XQ.m3u8?txSecret=08089cd70fa8adcbd893300259b44897&txTime=6AFB0288&sid=0Jli-uEPe4n1ebmY4AcQiBBFeyByUsFd0T-athKIktdLVF4PhrSDNvjKyD3aDsLL
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4734/image" group-title="LIVE EVENT",20:00 WIB Sudan vs Senegal Football Live 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/c5adcd15-1fdd-49eb-8740-c521addb78db.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4719/image" group-title="LIVE EVENT",20:00 WIB Zimbabwe vs Equatorial Guinea Football beIN SPORTS - AQ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4719/image" group-title="LIVE EVENT",20:00 WIB Zimbabwe vs Equatorial Guinea Football HD SERVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/7006e7e6-d7d5-4606-919e-5eac410b4fd1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/JHxeb",22:00 WIB Kepulauan Faroe vs Moldova
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://shorter.me/JHxeb",22:00 WIB Kazakhstan vs Slovakia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Japan Masters Badminton 2026 Court 1 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855020-10057-A-0-1-imgplus.flv?wsSecret=106517eb7eea3292de99b3c3c38f6bea&wsTime=6afcea0f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Japan Masters Badminton 2026 Court 2 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=c6bcc67ec1d5136c53709f3879612e42&wsTime=6afcea11&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Japan Masters Badminton 2026 Court 3 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855024-10057-A-0-1-imgplus.flv?wsSecret=23e789d2b042a771ecdfea67344be3c8&wsTime=6afcea17&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Japan Masters Badminton 2026 Court 4 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855026-10057-A-0-1-imgplus.flv?wsSecret=d5653c990c14e9cc42a400ec21ecc156&wsTime=6afcea1e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",å½ç¾½ä¸éä¸é¶æ¶å®2026JapanMasters Badminton HUYA CN
-http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1-imgplus.flv?wsSecret=691fd087ee75b8faa01711bef2b5fc41&wsTime=6afc6965&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/35184701760921-35184701760921-1415930840659001344-2479087855028-10057-A-0-1-imgplus.flv?wsSecret=b4a43863d67773d1ae26e170248821ba&wsTime=6afcea0f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",å³èµç²¾å½©åé¡¾    2026JapanMasters Badminton HUYA CN
-http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=0c05cb08fc8b157b78747f267578ec57&wsTime=6afc6966&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+http://al.flv.huya.com/src/1616275478-1616275478-6941850319336767488-2895636156-10057-A-0-1.flv?wsSecret=37509842acb1d1020942020c1e16517a&wsTime=6afcea10&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+# ===== SOURCE 3 =====
+#PLAYLIST:Prime Video Free Sports
+#LAST_UPDATE:05:32 AM 17-11-2026
+#TELEGRAM:https://t.me/livesportsplay
+#OWNER:Md Sohanur Rahman Hady
+#LIVE_COUNT:3
+#UPCOMING_COUNT:0
+#EXTINF:-1 tvg-id="B0HPZWB8SG" tvg-name="Triton Poker Series Cyprus-$25K NLH Titi Poker" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.52bd3e5a-937d-408e-9d9f-6a2bd46dcdfd/6/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",Triton Poker Series Cyprus-$25K NLH Titi Poker  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+#EXTINF:-1 tvg-id="B0HRB6VSK5" tvg-name="FloCollege D2 Football Bracket Breakdown" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c6b112c2-4a41-4c1d-9813-795299644248/3/BOXART-16X9/en-US._UR1920-1080_CLs%7C1920-1080%7C/G/bundle/BottomRightCardGradient16x9.png-/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0-0-1920-1080+0-0-1920-1080+1578-847-263-156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE EVENT",FloCollege D2 Football Bracket Breakdown  Prime Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+# ===== SOURCE 4 =====
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="LIVE EVENT", 5th ODI India Tour of New Zealand 2026 Sony Liv
+https://sonymtmnew-akamaized.pages.dev/out/v1/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e85053ccf5e0d42ca8af4983707dae59-1794706452168
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg" group-title="LIVE EVENT", UFC 334 - Gane vs Hokit Sony Liv
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e85053ccf5e0d42ca8af4983707dae59-1794706452168
+# ===== SOURCE 5 =====
+# ===== SOURCE 6 =====
+#PLAYLIST:Willow Cricket Event Info
+#LAST_UPDATE:03:32 PM 16-10-2026
+#TELEGRAM:https://t.me/livesportsplay
+#OWNER:Md Sohanur Rahman Hady
+#LIVE_COUNT:0
+#UPCOMING_COUNT:17
+# ===== SOURCE 7 =====
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/WhWEFnwG-480.jpg" group-title="LIVE EVENT",11:05 WIB Suntory Sunbirds Osaka VS Jtekt Stings Aichi
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271926/suntory-sunbirds-vs-jtekt.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Gz4rgbul-480.jpg" group-title="LIVE EVENT",11:05 WIB Wolfdogs Nagoya VS Nippon Steel Sakai Blazers
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271925/nagoya-vs-osaka-sakai.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/m3x9Rava-480.jpg" group-title="LIVE EVENT",11:05 WIB Saga Hisamitsu Springs VS Pfu Bluecats Ishikawa Kahoku
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271929/hisamitsu-springs-women-vs-pfu-blue-cats-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/azHSItwA-480.jpg" group-title="LIVE EVENT",11:05 WIB Denso Airybees VS Aleeza Aichi
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271928/denso-airybees-women-vs-body-queenseis-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IOLpdUhC-480.jpg" group-title="LIVE EVENT",11:05 WIB Hokkaido Yellow Stars VS Hiroshima Thunders
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271924/hokkaido-yellow-stars-vs-jt-thunders.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/s99vPzFm-480.jpg" group-title="LIVE EVENT",11:05 WIB Saitama Ageo Medics VS Osaka Marvelous
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271927/ageo-women-vs-jt-marvelous-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/EcQP55LK-480.jpg" group-title="LIVE EVENT",11:10 WIB Victorina Himeji VS Toray Arrows Shiga
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271930/himeji-victorina-w-vs-toray-arrows-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/wt9w7Qay-480.jpg" group-title="LIVE EVENT",[Belum Mulai] 12:05 WIB Okayama Seagulls VS Nec Red Rockets Kawasaki
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271936/okayama-seagulls-women-vs-nec-red-rockets-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/n9wFlSZ9-480.jpg" group-title="LIVE EVENT",[Belum Mulai] 12:05 WIB Toray Arrows Shizuoka VS Voreas Hokkaido
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271934/toray-arrows-vs-voreas-hokkaido.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/EcQP55LK-480.jpg" group-title="LIVE EVENT",[Belum Mulai] 12:05 WIB Tokyo Great Bears VS Shinshu Matsumoto Tridents
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271933/fc-tokyo-vs-shinshu-matsumoto-tridents.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gsirwwP1-480.jpg" group-title="LIVE EVENT",[Belum Mulai] 12:05 WIB Osaka Bluteon VS Fragolad Kagoshima
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271932/panasonic-panthers-vs-fragolad-kagoshima.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/UyU7I4z7-480.jpg" group-title="LIVE EVENT",[Belum Mulai] 12:05 WIB Aranmare Akita Shonai VS Astemo Rivale Ibaraki
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271935/prestige-aranmare-women-vs-hitachi-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/GvOMs6xj-480.jpg" group-title="LIVE EVENT",[Belum Mulai] 18:00 WIB Zeren Spor VS Eczacibasi Peron Istanbul
+https://site04.superabbit77hd.skin/es/volleyball/sultanlar-ligi-women-2271954/zeren-spor-women-vs-eczacibasi-women.html
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t3IBdp0mTnw/hq720.jpg" group-title="LIVE EVENT",[Belum Mulai] 18:00 WIB VAKIFBANK VS ARAS KARGO Vodafone Sultanlar Ligi
+t3IBdp0mTnw
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3dYru6zryrw/hq720.jpg" group-title="LIVE EVENT",[Belum Mulai] 20:00 WIB MANÄ°SA BÃYÃKÅEHÄ°R BELEDÄ°YE SPOR VS TÃRK HAVA YOLLARI Vodafone Sultanlar Ligi
+3dYru6zryrw
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wKrOJl3cczY/hq720.jpg" group-title="LIVE EVENT",[Belum Mulai] 23:00 WIB BEÅÄ°KTAÅ VS SÄ°NNADA HOTELS AFYON BELEDÄ°YE YÃNTAÅ Vodafone Sultanlar Ligi
+wKrOJl3cczY
+# ===== SOURCE 9 =====
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10" group-title="LIVE EVENT",Japan Masters Badminton 2026 Court 2 HUYA
+http://al.flv.huya.com/src/2356-0-0-2479087855022-10057-A-0-1-imgplus.flv?wsSecret=12babd6d0f086c28bb8b542e366901ae&wsTime=6afcea4c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D
+# ===== SOURCE 10 =====
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26xVe6CPgwgTjD5OmiZeVDi7QQbZduKWYb7OZmYm9jEL_xlQxK7p6G5rl&s=10rGySkbHm/20260806-155101.png" group-title="LIVE EVENT",
+# ===== SOURCE 11 =====
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html><head>
 <title>404 Not Found</title>
